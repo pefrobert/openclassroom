@@ -1,2 +1,3 @@
 # openclassroom
-Repository to test openclassroom training
+Repository to test openclassroom training.
+Dummy commits inside
