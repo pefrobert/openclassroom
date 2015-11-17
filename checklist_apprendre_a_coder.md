@@ -1,1 +1,1 @@
-des choses importantes
+Pour apprendre à coder, suivez les cours sur openclassroom !
